@@ -101,7 +101,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["mcy9988.mycloudnas.com"];
-pub const RS_PUB_KEY: &str = "9C+SM3m9bMtpASceTcP6RAaxrJjwhO8PLMgZqGiK+KE=";
+pub const RS_PUB_KEY: &str = "6ZADfMZGViLCU7R1KzemWIGTZI4jG5VMvz2lR90dZ5k=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
